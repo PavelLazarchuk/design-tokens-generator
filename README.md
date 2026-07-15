@@ -1,5 +1,7 @@
 # Design Tokens Generator
 
+**Live app:** https://pavellazarchuk.github.io/design-tokens-generator
+
 A client-side tool that turns a base color and typography settings into a complete design
 token system — color shade scales, a modular type scale, and spacing tokens — exportable
 as CSS custom properties, a Tailwind config snippet, or plain JSON.
